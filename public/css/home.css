@@ -1,0 +1,90 @@
+.home .header{
+    font-family: 'Roboto';
+    font-size: 12px; ;
+    background-color: #EAC926;
+    text-align: left;
+}
+.logo{
+    width: 45%;
+}
+.home .tarjeta {
+    text-align: center;
+}
+.burguer-menu{
+    text-align: center;
+    font-size: 25px;
+    color:#ebebeb ;
+    background-color: #03264C;
+   border-radius: 10px;
+   display: inline-block;
+   height: 29px;
+   width: 50px;
+margin: 45%;
+    
+}
+.home .img{
+    padding: 20%px;
+    margin: 20%px;
+    width: 90%;
+    height: 90%;
+    display: block;
+}
+.home h2{
+    font-size: 24px;
+}
+.home .descuentos{
+    font-size: 16px;
+}
+.home .desc{
+    font-size: 16px;
+}
+.menubajo{
+    display: inline-block;
+    }
+.home .precios{
+    width: 18px; 
+    height: 18px;
+    font-size: 18px;
+}
+
+.buscar{
+    position:absolute;
+    padding-top: 5px;
+    padding-right: 95%;
+
+}
+.buscar input{
+    width: 240px;
+    height: 40px;
+    padding: 0 20px;
+    font-size: 18px;
+    color: black;
+    outline: none;
+    border: 1px solid silver;
+    border-radius: 30px;
+    
+
+}
+.precios{
+    width: 18px;
+}
+.home .footer{
+    font-size: 12px;
+    font-family:'Roboto', sans-serif;
+    text-align: center;
+    color: #666;
+    background-color:#ebebeb ;
+    padding: 0%;
+    margin:0%;
+    border: 0%;
+}
+.home .icon{
+    color:#03264C;
+    font-size: 2em;
+    margin-bottom: 10px;
+
+}
+.home .copy{
+    text-align: left;
+    margin-top: 60px;
+}
